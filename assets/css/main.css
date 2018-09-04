@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/waterbg.jpg);
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Rock Salt', cursive;
+    color: aliceblue;
+}
+
+.header {
+    margin: 10px auto;
+    text-align: center;
+    width: 960px;
+}
+
+.mainbox {
+    margin: 10px auto;
+    text-align: center;
+    width: 960px;
+    
+}
+
+.gamebox {
+    border: 2px dashed grey;
+}
